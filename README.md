@@ -1,8 +1,7 @@
 
 # 👋 Oi! Bem-vindo ao meu GitHub  
 
-## Sobre mim
-# Sobre Mim
+## Sobre Mim
 
 Olá! Meu nome é Marcos Oliveira, sou um estudante de 19 anos cursando o 4º semestre de Ciência da Computação no Instituto Mauá de Tecnologia, com previsão de conclusão para o 1º semestre de 2026.
 
